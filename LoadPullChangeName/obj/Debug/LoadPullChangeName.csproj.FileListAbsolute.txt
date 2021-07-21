@@ -1,0 +1,10 @@
+D:\test_p\LoadPullChangeName\bin\Debug\LoadPullChangeName.exe.config
+D:\test_p\LoadPullChangeName\bin\Debug\LoadPullChangeName.exe
+D:\test_p\LoadPullChangeName\bin\Debug\LoadPullChangeName.pdb
+D:\test_p\LoadPullChangeName\obj\Debug\LoadPullChangeName.csprojAssemblyReference.cache
+D:\test_p\LoadPullChangeName\obj\Debug\LoadPullChangeName.Form1.resources
+D:\test_p\LoadPullChangeName\obj\Debug\LoadPullChangeName.Properties.Resources.resources
+D:\test_p\LoadPullChangeName\obj\Debug\LoadPullChangeName.csproj.GenerateResource.cache
+D:\test_p\LoadPullChangeName\obj\Debug\LoadPullChangeName.csproj.CoreCompileInputs.cache
+D:\test_p\LoadPullChangeName\obj\Debug\LoadPullChangeName.exe
+D:\test_p\LoadPullChangeName\obj\Debug\LoadPullChangeName.pdb
